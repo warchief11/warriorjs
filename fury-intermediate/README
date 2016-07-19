@@ -1,0 +1,34 @@
+Level 2
+
+Another large room, but with several enemies blocking your way to the stairs.
+
+Tip: Just like walking, you can attack and feel in multiple directions ('forward', 'left', 'right', 'backward').
+
+
+╔════╗
+║@s  ║
+║ sS>║
+╚════╝
+
+  > = stairs
+  @ = fury
+  S = thickSludge
+  s = sludge
+
+
+Warrior abilities:
+
+  warrior.directionOfStairs()
+
+  warrior.walk()
+
+  warrior.feel() (NEW!)
+
+  warrior.attack() (NEW!)
+
+  warrior.health() (NEW!)
+
+  warrior.rest() (NEW!)
+
+
+When you're done editing Player.js, run the warriorjs command again.
